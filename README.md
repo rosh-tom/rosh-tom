@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-Here are some ideas to get you started:
+Here are some ideas for you to know what's going on:
 
 - 🔭 I’m currently working on nothing. 
 - 🌱 I’m currently learning Laravel and Vue.js.
@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: no you can't. 
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: truth hurts, sometimes. 
+- ⚡ Fun fact: Truth hurts, sometimes. 
 -->
