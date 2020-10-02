@@ -1,1 +1,1 @@
-### People are like codes. There's bad and good.
+### “Good artists copy, Great artists steal”
