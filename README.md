@@ -1,1 +1,1 @@
-### “Good artists copy, Great artists steal”
+### “Good artists copy, great artists steal”
